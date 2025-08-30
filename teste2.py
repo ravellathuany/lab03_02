@@ -1,0 +1,1 @@
+hello = "sou uma mensagem de olá"
